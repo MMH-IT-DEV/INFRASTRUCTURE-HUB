@@ -1,7 +1,7 @@
 'use client';
 
-import SystemView from '@/components/SystemView';
+import NetworkView from '@/components/NetworkView';
 
 export default function Home() {
-  return <SystemView />;
+  return <NetworkView />;
 }
